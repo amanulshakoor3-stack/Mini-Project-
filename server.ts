@@ -207,7 +207,7 @@ You MUST respond strictly with valid JSON conforming to the requested schema. Pr
 Include 2-3 specific visual features observed in the image that led to this classification (e.g., "Distinctive radial mane and tawny coat", "Pointed triangular ears and whiskers", "Elongated prehensile trunk and large ear pinnae").`;
 
         const response = await aiClient.models.generateContent({
-          model: "gemini-3.7-flash",
+          model: "gemini-3.6-flash",
           contents: {
             parts: [
               {
