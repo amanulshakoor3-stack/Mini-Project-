@@ -1,0 +1,1 @@
+{"name":"Animal Species Classification","description":"Deep Learning-powered animal species identification with EfficientNetB0 transfer learning, confidence visualization, and probability analysis.","requestFramePermissions":["camera"],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
